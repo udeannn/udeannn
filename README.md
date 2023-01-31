@@ -11,7 +11,6 @@ Nice To Meet You
 <a href="https://t.me/Udean123" target="_blank"><img src="https://img.shields.io/badge/Telegram-000000?&style=for-the-badge&logo=telegram&logoColor=white"></a>  
 <a href="https://www.instagram.com/udin_aryansah_123/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>  
  </div>
-[![@udeannn's Holopin board](https://holopin.me/udeannn)](https://holopin.io/@udeannn)
 
 <!--
 **udeannn/udeannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

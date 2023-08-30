@@ -13,7 +13,7 @@ Nice To Meet You
  <a href="https://www.instagram.com/udin_aryansah_123/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>  
 </div>
 
-<div align="center">
+
  [![GitHub Streak](https://streak-stats.demolab.com?user=udeannn&theme=dark)](https://git.io/streak-stats)
-</div>
+
 

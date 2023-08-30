@@ -14,6 +14,6 @@ Nice To Meet You
 </div>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=udeannn&theme=dark&card_width=506)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=udeannn&theme=dark&card_width=1030)](https://git.io/streak-stats)
 
 

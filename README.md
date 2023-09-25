@@ -5,8 +5,6 @@
 Nice To Meet You
 [![@udeannn's Holopin board](https://holopin.me/udeannn)](https://holopin.io/@udeannn)
 [![GitHub Streak](https://streak-stats.demolab.com?user=udeannn&theme=dark&card_width=1030)](https://git.io/streak-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udeannn&theme=tokyonight&layout=compact)](https://github.com/udeannn)
 
 ### Connect with me ☎️
 <div align="center">
@@ -14,6 +12,7 @@ Nice To Meet You
  <a href="https://github.com/udeannn" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?&style=for-the-badge&logo=github&logoColor=white"></a>  
  <a href="https://t.me/Udean123" target="_blank"><img src="https://img.shields.io/badge/Telegram-000000?&style=for-the-badge&logo=telegram&logoColor=white"></a>  
  <a href="https://www.instagram.com/udin_aryansah_123/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udeannn&theme=tokyonight&layout=compact)](https://github.com/udeannn)
 </div>
 
 

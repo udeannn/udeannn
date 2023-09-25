@@ -5,6 +5,8 @@
 Nice To Meet You
 [![@udeannn's Holopin board](https://holopin.me/udeannn)](https://holopin.io/@udeannn)
 [![GitHub Streak](https://streak-stats.demolab.com?user=udeannn&theme=dark&card_width=1030)](https://git.io/streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udeannn&theme=tokyonight&layout=compact)](https://github.com/udeannn)
 
 ### Connect with me ☎️
 <div align="center">

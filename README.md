@@ -13,9 +13,14 @@ Nice To Meet You
  <a href="https://t.me/Udean123" target="_blank"><img src="https://img.shields.io/badge/Telegram-000000?&style=for-the-badge&logo=telegram&logoColor=white"></a>  
  <a href="https://www.instagram.com/udin_aryansah_123/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>  
 </div>
-<!---
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udeannn&theme=tokyonight&layout=compact)](https://github.com/udeannn)
- -->
+
+<a href="https://github.com/udeannn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=udeannn&count_private=true&show_icons=true&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/udeannn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udeannn&layout=compact&theme=chartreuse-dark&langs_count=8" />
+</a>
+
 
 
 
